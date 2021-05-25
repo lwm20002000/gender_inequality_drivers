@@ -15,4 +15,7 @@ UNDP Human Development Reports: http://hdr.undp.org/en/content/download-data
 Sample files (contain a sample of 100 records) are:
 
 Grade 4: grade_4_final_sample.csv
+
 Grade 8: grade_8_final_sample.csv
+
+**Files on GitHub do not include the original datasets. For original datasets, please download from the provided links above.**
