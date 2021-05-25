@@ -1,9 +1,12 @@
 # Project workflow and order of Jupyter Notebooks
 
-1. Read Country IDs.ipynb
+1. Read Country IDs.ipynb 
 2. Human Development Reports.ipynb
+ 
 3a. Data Processing and PCA Grade 4.ipynb
+
 3b. Data Processing and PCA Grade 8.ipynb
+
 4. Data Manipulation and EDA.ipynb
 5. All Visualizations.ipynb
 
