@@ -1,0 +1,44 @@
+Variable,Label
+ACBG03A,economic disadvantage
+ACBG05B,immediate area of school location
+ACBG06A,instructional days per year
+ACBG06B,total instructional time minutes
+ACBG06C,instructional days in 1 calender week
+ACBG07,total number computers
+ACBG08A,existing science laboratory
+ACBG10B,books with different titles
+ACBG12,access to digital learning resources
+ACBG14A,teacher understanding
+ACBG14B,teacher success
+ACBG14C,teacher expectations
+ACBG14D,teacher ability to inspire
+ACBG14E,parental involvement
+ACBG14F,parental commitment
+ACBG14G,parental expectations
+ACBG14H,parental support
+ACBG14I,student desire to do well
+ACBG14J,student reach goals
+ACBG14K,student respect
+ASBG01,sex of student
+ASBG03,how often student speak the language of the test at home
+ASBG04,amount of books at home
+ASBG05A,computer or tablet at home
+ASBG05B,study desk at home
+ASBG05C,own room at home
+ASBG05D,internet connection at home
+ASBG09A,how often student is tired
+ASBG09B,how often student is hungry
+ASBM01,how often student works on his/her own in math
+ASBS06,how often conduct experiments in science
+ASMMAT01, math
+ASSSCI01, science
+ASMNUM01, number
+ASMGEO01, geometry
+ASMDAT01, data display
+ASMKNO01, math knowing
+ASMREA01, math reasoning
+ASSLIF01, life science
+ASSPHY01, physics
+ASSEAR01, earth science
+ASSKNO01, science knowing
+ASSREA01, science reasoning

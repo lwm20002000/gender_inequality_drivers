@@ -1,0 +1,53 @@
+Variable,Label
+BCBG03A,economic disadvantage
+BCBG05B,immediate area of school location
+BCBG06A,instructional days per year
+BCBG06B,total instructional time minutes
+BCBG06C,instructional days in 1 calender week
+BCBG07,total number computers
+BCBG08A,existing science laboratory
+BCBG10B,books with different titles
+BCBG12,access to digital learning resources
+BCBG14A,teacher understanding
+BCBG14B,teacher success
+BCBG14C,teacher expectations
+BCBG14D,teacher ability to inspire
+BCBG14E,parental involvement
+BCBG14F,parental commitment
+BCBG14G,parental expectations
+BCBG14H,parental support
+BCBG14I,student desire to do well
+BCBG14J,ability to reach goals
+BCBG14K,respect for classmates
+BSBG01,sex of student
+BSBG03,how often student speak the language of the test at home
+BSBG04,amount of books at home
+BSBG05A,computer or tablet at home
+BSBG05B,study desk at home
+BSBG05C,own room at home
+BSBG05D,internet connection at home
+BSBG06A,highest level of education of 1st parent/guardian
+BSBG06B,highest level of education of 2nd parent/guardian
+BSBG07,how far in education student is expected to go
+BSBG10,how often student is absent from school
+BSBG11A,how often student is tired
+BSBG11B,how often student is hungry
+BSBM15,work on your own math
+BSBM42BA,minutes spent on math homework
+BSBM27AA,extra math lessons in last 12 months
+BSMMAT01, math
+BSSSCI01, science
+BSMALG01, algebra
+BSMAPP01, math applying
+BSMDAT01, data and probability
+BSMGEO01, geometry
+BSMKNO01, math knowing
+BSMNUM01, number
+BSMREA01, math reasoning
+BSSAPP01, science applying
+BSSBIO01, biology
+BSSCHE01, chemistry
+BSSEAR01, earth science
+BSSKNO01, science knowing
+BSSPHY01, physics
+BSSREA01, science reasoning
