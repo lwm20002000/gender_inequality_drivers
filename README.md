@@ -2,11 +2,12 @@
 
 1. Read Country IDs.ipynb
 2. Human Development Reports.ipynb
-3. a.Data Processing and PCA Grade 4.ipynb     b.Data Processing and PCA Grade 8.ipynb
+3. (a).Data Processing and PCA Grade 4.ipynb     (b).Data Processing and PCA Grade 8.ipynb
 4. Data Manipulation and EDA.ipynb
 5. All Visualizations.ipynb
 
-Data URLs:
+
+**Data URLs:
 
 TIMSS: https://timss2019.org/international-database/
 UNDP Human Development Reports: http://hdr.undp.org/en/content/download-data
