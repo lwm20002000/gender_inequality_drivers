@@ -15,5 +15,5 @@ grade_4_final.csv
 grade_8_final.csv
 
 # Folders contain original data
-T19_G4_SAS Data/*
-T19_G8_SAS Data/*
+T19_G4_SAS Data/
+T19_G8_SAS Data/
